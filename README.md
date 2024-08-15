@@ -1,5 +1,5 @@
 
-mv selinux_menu.sh /data/data/com.termux/files/home/
+mv selinux_menu.sh/data/data/com.termux/files/home/
 
 cd /data/data/com.termux/files/home/
 
