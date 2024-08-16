@@ -1,3 +1,6 @@
+<h2 align="left">Instrucoes</h2>
+
+###
 
 mv selinux_menu.sh/data/data/com.termux/files/home/
 
