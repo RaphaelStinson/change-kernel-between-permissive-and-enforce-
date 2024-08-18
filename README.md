@@ -2,6 +2,16 @@
 
 ###
 
+use o comando para arrumar os problemas do termux no Android 14
+
+pkg install termux-am
+
+logo após isso 
+
+termux-setup-storage
+
+depois
+
 mv selinux_menu.sh/data/data/com.termux/files/home/
 
 cd /data/data/com.termux/files/home/
