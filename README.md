@@ -13,6 +13,10 @@ termux-setup-storage
 depois para usar permissão root use
 
 su
+ 
+depois
+
+exit
 
 depois
 
