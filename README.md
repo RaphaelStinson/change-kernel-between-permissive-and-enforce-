@@ -18,9 +18,11 @@ depois
 
 exit
 
-use gitclone
+use gitclone https://github.com/RaphaelStinson/change-kernel-between-permissive-and-enforcing
 
 depois
+
+se estiver em outro diretório sem ser a home faça
 
 mv selinux_menu.sh/data/data/com.termux/files/home/
 
