@@ -34,6 +34,8 @@ mv selinux_menu.sh/data/data/com.termux/files/home/
 
 cd /data/data/com.termux/files/home/
 
+se não estiver
+
 add the file to the home page, then run the following commands 
 
 chmod +x selinux_menu.sh
