@@ -24,7 +24,7 @@ pkg install git
 
 depois 
 
-gitclone https://github.com/RaphaelStinson/change-kernel-between-permissive-and-enforcing
+git clone https://github.com/RaphaelStinson/change-kernel-between-permissive-and-enforcing
 
 depois
 
