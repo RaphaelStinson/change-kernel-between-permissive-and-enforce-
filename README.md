@@ -18,7 +18,13 @@ depois
 
 exit
 
-use gitclone https://github.com/RaphaelStinson/change-kernel-between-permissive-and-enforcing
+use
+
+pkg install git
+
+depois 
+
+gitclone https://github.com/RaphaelStinson/change-kernel-between-permissive-and-enforcing
 
 depois
 
