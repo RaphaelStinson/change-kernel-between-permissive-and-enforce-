@@ -18,6 +18,8 @@ depois
 
 exit
 
+use gitclone
+
 depois
 
 mv selinux_menu.sh/data/data/com.termux/files/home/
