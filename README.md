@@ -10,6 +10,10 @@ logo após isso
 
 termux-setup-storage
 
+depois para usar permissão root use
+
+su
+
 depois
 
 mv selinux_menu.sh/data/data/com.termux/files/home/
